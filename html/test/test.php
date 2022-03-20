@@ -33,8 +33,10 @@
         chart.draw(data, options);
       };
     </script>
+    
   </head>
   <body>
+    <h1>agregado desde la web</h1>
     <div id="top_x_div" style="width: 900px; height: 500px;"></div>
   </body>
 </html>
